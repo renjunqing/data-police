@@ -1,0 +1,22 @@
+{
+  "name": "data-police",
+  "version": "1.4.0",
+  "description": "数据校验工具",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "任军庆",
+  "license": "ISC",
+  "dependencies": {
+    "exact-calculation": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-stage-2": "^7.8.3",
+    "babel-jest": "^25.2.4",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^25.2.4"
+  }
+}
